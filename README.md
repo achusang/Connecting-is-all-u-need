@@ -143,7 +143,6 @@ The recorded data include time, control mode, PWM output, electrical measurement
 
 * The effective heater area is defined in `Config.h` and is used to calculate cooling power density.
 * The default PWM frequency is 20 kHz.
-* The default PWM limit is 60%.
 * The control loop interval is 500 ms.
 * CSV logging is performed every 2 s using averaged values.
 * The real-time clock should be set before long outdoor tests.
