@@ -150,10 +150,9 @@ The recorded data include time, control mode, PWM output, electrical measurement
 * Pin assignments can be changed in `Config.h` according to the selected ESP32-S3 board.
 
 
-## Citation
+## Contact
 
-If you use this code or platform, please cite the associated manuscript:
+For questions, suggestions, or problems related to the code or platform, please contact:
 
-Chen H, Li J, Fan Y, Liu X, Liu J, Wang C. A low-cost modular embedded platform for outdoor radiative cooling testing: Connecting is all you need.
+ch18511992966@163.com
 
-I
